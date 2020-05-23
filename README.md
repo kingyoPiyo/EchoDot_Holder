@@ -12,3 +12,6 @@ Echo Dot（第3世代）用のホルダです。天井吊りスピーカが欲�
 <img src="doc/fig3.png" width="600">  
 ↓クリップの先端に硬化するとシリコン状になる接着剤を塗布しておくとホールド力が高まり安心です。  
 <img src="doc/fig6.png" width="600">  
+  
+↓最終的にこうなりました。EchoDotの発熱とPLA樹脂のヘタリでホールド力が低下するので、補強が必要そうです。  
+<img src="doc/fig7.png" width="600">  
